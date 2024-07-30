@@ -11,11 +11,16 @@ II. Algorithms
 Knapsack Problem에서 출발! -> 인원수와 각 학부의 배정된 각각의 Value값 상정!
 
 여러 알고리즘을 이용하여 문제를 풀이
-->	강의에서 배운 Excel Solver를 이용한 Integer Programming
- 	Dynamic Programming
-  	Back Tracking
-   	Greedy Algorithm
+->	강의에서 배운 Excel Solver를 이용한 Integer Programming 및
+
+   Dynamic Programming
+   
+   Back Tracking
+   
+   Greedy Algorithm
 
 III. Problem Advancement
+
 조건 1)  화공생명공학부가 들어가면 최대 인원수가 330 으로 증가한다.
+
 조건 2)  건축학과와 건축사회환경공학부가 모두 선택되면 둘의 Value값이 140 에서 200 으로 증가한다.
